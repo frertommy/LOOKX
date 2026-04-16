@@ -66,6 +66,7 @@ def generate_approach(analysis: dict) -> dict:
     return {
         "username": user["username"],
         "name": user["name"],
+        "firm": user.get("firm", "Unknown"),
         "followers": user["followers"],
         "bio": user["bio"],
         "profile_url": f"https://x.com/{user['username']}",
@@ -108,7 +109,7 @@ def generate_report(approaches: list[dict]) -> str:
 
     for i, a in enumerate(approaches, 1):
         lines.append("-" * 80)
-        lines.append(f"#{i} [{a['warmth']}] @{a['username']} - {a['name']}")
+        lines.append(f"#{i} [{a['warmth']}] @{a['username']} - {a['name']} ({a.get('firm', '?')})")
         lines.append(f"   Followers: {a['followers']:,} | Signal: {a['signal_strength']}")
         lines.append(f"   Profile: {a['profile_url']}")
         lines.append(f"   Bio: {a['bio'][:120]}")
