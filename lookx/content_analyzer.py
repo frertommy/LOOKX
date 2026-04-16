@@ -1,5 +1,4 @@
-import re
-from lookx.x_client import XClient
+from __future__ import annotations
 
 # Topic categories and their keywords
 TOPIC_KEYWORDS = {
@@ -39,17 +38,11 @@ BLOG_DOMAINS = [
 ]
 
 
-def analyze_user_content(client: XClient, user: dict, max_tweets: int = 50) -> dict:
+def analyze_user_content(user: dict, tweets: list[dict]) -> dict:
     """Analyze a user's tweets for relevant topic signals.
 
-    Returns an analysis dict with:
-    - topic_scores: how many hits per topic category
-    - relevant_tweets: tweets that matched keywords
-    - blog_links: any links to blog/article platforms
-    - total_signal_strength: overall relevance score
+    Uses pre-collected tweets (no API calls needed).
     """
-    tweets = client.get_user_tweets(user["id"], max_results=max_tweets)
-
     topic_scores = {topic: 0 for topic in TOPIC_KEYWORDS}
     relevant_tweets = []
     blog_links = []
@@ -70,18 +63,17 @@ def analyze_user_content(client: XClient, user: dict, max_tweets: int = 50) -> d
             relevant_tweets.append({
                 "text": tweet["text"][:280],
                 "topics": matched_topics,
-                "metrics": tweet["metrics"],
-                "date": tweet["created_at"],
+                "metrics": tweet.get("metrics", {}),
+                "date": tweet.get("created_at"),
             })
 
-        # Collect URLs, check for blog links
         for url in tweet.get("urls", []):
             all_urls.append(url)
             url_lower = url.lower()
             if any(domain in url_lower for domain in BLOG_DOMAINS):
                 blog_links.append(url)
 
-    # Also check the user's bio for topic signals
+    # Check the user's bio for topic signals
     bio_lower = user["bio"].lower()
     bio_topics = []
     for topic, keywords in TOPIC_KEYWORDS.items():
@@ -93,7 +85,6 @@ def analyze_user_content(client: XClient, user: dict, max_tweets: int = 50) -> d
 
     # Calculate overall signal strength
     total_signal = sum(topic_scores.values())
-    # Bonus for having a blog/substack
     if blog_links:
         total_signal += len(blog_links) * 2
 
@@ -108,7 +99,7 @@ def analyze_user_content(client: XClient, user: dict, max_tweets: int = 50) -> d
         "user": user,
         "topic_scores": topic_scores,
         "top_topics": sorted(topic_scores.keys(), key=lambda t: topic_scores[t], reverse=True)[:3],
-        "relevant_tweets": relevant_tweets[:10],  # Top 10 most relevant
+        "relevant_tweets": relevant_tweets[:10],
         "blog_links": list(set(blog_links)),
         "has_blog": has_blog or len(blog_links) > 0,
         "total_urls": len(all_urls),
@@ -117,12 +108,13 @@ def analyze_user_content(client: XClient, user: dict, max_tweets: int = 50) -> d
     }
 
 
-def batch_analyze(client: XClient, users: list[dict], max_tweets: int = 50) -> list[dict]:
-    """Analyze a batch of users and return sorted by signal strength."""
+def batch_analyze(users: list[dict], all_tweets: dict[int, list[dict]]) -> list[dict]:
+    """Analyze a batch of users using pre-collected tweets."""
     results = []
     for i, user in enumerate(users):
-        print(f"  Analyzing {i+1}/{len(users)}: @{user['username']} ({user['followers']} followers)...")
-        analysis = analyze_user_content(client, user, max_tweets=max_tweets)
+        tweets = all_tweets.get(user["id"], [])
+        print(f"  Analyzing {i+1}/{len(users)}: @{user['username']} ({user['followers']} followers, {len(tweets)} tweets)...")
+        analysis = analyze_user_content(user, tweets)
         if analysis["total_signal"] > 0:
             results.append(analysis)
 

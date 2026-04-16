@@ -1,0 +1,229 @@
+================================================================================
+LOOKX - VC PROSPECT REPORT: PREDICTION MARKETS / SPORTS BETTING
+================================================================================
+
+Total: 38 prospects | HOT: 12 | WARM: 14 | LUKEWARM: 12
+
+================================================================================
+TIER 1 - HOT (Direct prediction markets investment/involvement)
+================================================================================
+
+#1  @eightyhi - Adhi Rajaprabhakaran @ 5c(c) Capital
+    Role: Founding Managing Partner
+    Profile: https://x.com/eightyhi
+    Evidence: Runs a VC fund LITERALLY dedicated to prediction markets. Named
+    after Section 5c(c) of the Commodity Exchange Act. Former Kalshi trader.
+    Writes '50 Cent Dollars' Substack about prediction markets.
+    Blog: https://fiftycentdollars.substack.com/
+    APPROACH: Direct peer conversation - he IS the prediction markets VC.
+
+#2  @Nostroah - Noah Zingler-Sternig @ 5c(c) Capital
+    Role: Founder & General Partner
+    Profile: https://x.com/Nostroah
+    Evidence: Former Head of Ops at Kalshi. Co-founded prediction markets VC
+    backed by Kalshi CEO, Polymarket CEO, and Marc Andreessen.
+    APPROACH: Reference Kalshi ops background. Talk infrastructure gaps.
+
+#3  @joeykrug - Joey Krug @ Founders Fund
+    Role: Partner
+    Profile: https://x.com/joeykrug
+    Evidence: Co-founded Augur (first decentralized prediction market).
+    Led Founders Fund's Polymarket investment. Called Polymarket
+    "the undisputed leader in prediction markets."
+    APPROACH: He built the first prediction market protocol. Lead with technical thesis.
+
+#4  @NTmoney - Nick Tomaino @ 1Confirmation
+    Role: Founder & General Partner
+    Profile: https://x.com/NTmoney
+    Evidence: Largest investment is Polymarket (since 2020). Led $3M pre-seed
+    for Limitless Labs. Said Polymarket sports odds are "insanely better than
+    Vegas" and sports prediction markets need to be "100x" larger.
+    APPROACH: He already believes the market is 100x undervalued. Reference sports thesis.
+
+#5  @arjunblj - Arjun Balaji @ Paradigm
+    Role: Investment Partner
+    Profile: https://x.com/arjunblj
+    Evidence: Building Paradigm's prediction markets trading terminal for pro
+    traders. Paradigm led Kalshi's $185M Series C and $1B Series E.
+    APPROACH: Talk market maker infrastructure, liquidity, pro trading tooling.
+
+#6  @_alekslarsen - Aleks Larsen @ Blockchain Capital
+    Role: General Partner
+    Profile: https://x.com/_alekslarsen
+    Evidence: Led $55M Polymarket round. Published "Put Your Money Where Your
+    Mouth Is." Said prediction markets will become "part of the fabric of
+    modern media, social networks and financial markets."
+    Blog: medium.com/@alekslarsen
+    APPROACH: Reference his Polymarket thesis piece. Discuss media/social integration.
+
+#7  @guywuolletjr - Guy Wuollet @ a16z crypto
+    Role: General Partner
+    Profile: https://x.com/guywuolletjr
+    Evidence: Led a16z's $2.5M seed in Kairos (prediction markets trading
+    terminal integrating Kalshi + Polymarket). Contributed to 2026 Big Ideas.
+    APPROACH: Lower profile a16z GP. Reference Kairos deal. Talk aggregation.
+
+#8  @veradittakit - Paul Veradittakit @ Pantera Capital
+    Role: Managing Partner
+    Profile: https://x.com/veradittakit
+    Evidence: Led Novig investment ($75M at $500M val). Said Novig is "proving
+    prediction markets can fundamentally reshape sports betting." Publishes
+    State of Prediction Markets on Substack.
+    Blog: https://veradiverdict.com
+    APPROACH: Engage with his VeradiVerdict Substack first. He writes extensively.
+
+#9  @fawzitani - Fawzi Itani @ Forerunner Ventures
+    Role: Principal
+    Profile: https://x.com/fawzitani
+    Evidence: Led Forerunner's Novig investment. Said "consumers increasingly
+    are spending their time, energy, and attention with financial products."
+    APPROACH: Lower profile principal. DM directly - low followers = reads DMs.
+
+#10 @RealOmeedMalik - Omeed Malik @ 1789 Capital
+    Role: Co-Founder & President
+    Profile: https://x.com/RealOmeedMalik
+    Evidence: Invested "tens of millions" in Polymarket. Called it "the
+    intersection of free expression and financial innovation."
+    APPROACH: Free expression + finance convergence angle.
+
+#11 @prayanks - Prayank Swaroop @ Accel
+    Role: Partner
+    Profile: https://x.com/prayanks
+    Evidence: Led Accel's $2.5M seed in Pred (P2P sports prediction exchange
+    on Base). Published "building a more transparent sports trading marketplace."
+    APPROACH: On-chain sports trading. Transparent markets thesis.
+
+#12 @danrobinson - Dan Robinson @ Paradigm
+    Role: General Partner & Head of Research
+    Profile: https://x.com/danrobinson
+    Evidence: Co-authored pm-AMM paper (AMM for prediction markets). Published
+    Distribution Markets research. Deep derivatives/perps work.
+    APPROACH: Technical. Reference pm-AMM research. AMM design for prediction markets.
+
+================================================================================
+TIER 2 - WARM (Strong adjacent interest / investments)
+================================================================================
+
+#13 @shayonsengupta - Shayon Sengupta @ Multicoin Capital
+    Role: Investment Partner
+    Evidence: Said "an exchange is, from first principles, a strictly superior
+    market mechanism for sports betting." Direct sports betting thesis.
+    APPROACH: Exchange-as-sportsbook thesis. Lower profile - DM directly.
+
+#14 @_Dave__White_ - Dave White @ Paradigm
+    Role: Research Partner (~42K followers)
+    Evidence: Distribution Markets paper. Floor perpetuals. Power perpetuals.
+    APPROACH: Technical angle on derivatives design.
+
+#15 @HadickM - Rob Hadick @ Dragonfly Capital
+    Role: General Partner
+    Evidence: CFTC advisory committee member. CNBC appearances on prediction
+    markets. Dragonfly invested in Polymarket + Megapot.
+    APPROACH: Regulatory angle. He understands the legal landscape.
+
+#16 @tomhschmidt - Tom Schmidt @ Dragonfly Capital
+    Role: General Partner
+    Evidence: Low-profile GP. Polymarket + Megapot portfolio. Active on
+    Chopping Block podcast discussing prediction markets.
+    APPROACH: Low-profile GP - DM on X. Reference podcast episodes.
+
+#17 @mickymalka - Micky Malka @ Ribbit Capital
+    Role: Founder & Managing Partner
+    Evidence: Backed 5c(c) Capital prediction markets fund. Early Coinbase
+    and Robinhood backer.
+    APPROACH: Reference 5c(c) backing. Already committed to prediction market infra.
+
+#18 @GigiLevy - Gigi Levy-Weiss @ NFX
+    Role: Founding Partner
+    Evidence: Former CEO of 888 Holdings (major online gambling). Founded
+    Playtika. NFX invested in Novig. Decades in gambling.
+    APPROACH: He ran a top gambling company. Prediction markets improve on traditional gambling.
+
+#19 @willreed_21 - Will Reed @ Spark Capital
+    Role: General Partner
+    Evidence: Led $70M Series C in Underdog Fantasy at $1.23B. Called it
+    "Silicon Valley's largest investment in sports betting."
+    APPROACH: Reference Underdog deal. Next-gen sports prediction infrastructure.
+
+#20 @mhiggins - Matt Higgins @ RSE Ventures
+    Role: Co-Founder & CEO
+    Evidence: $17.5M in The Action Network (sports betting media/analytics).
+    Deep sports connections via Stephen Ross (Dolphins owner).
+    APPROACH: Sports betting data/analytics angle. Reference Action Network.
+
+#21 @cegapereira - Carlos Pereira @ BITKRAFT Ventures
+    Role: General Partner (Crypto)
+    Evidence: Publicly commented on prediction market integrity/insider trading.
+    APPROACH: Market structure and trust angle.
+
+#22 @tomloverro - Tom Loverro @ IVP
+    Role: General Partner
+    Evidence: IVP invested in Kalshi. Published "Kalshi: The Everything Exchange."
+    Board at Coinbase + NerdWallet.
+    Blog: https://tomloverro.com
+    APPROACH: Reference Kalshi blog post. Event contracts as "everything exchange."
+
+#23 @ahall_research - Andrew Hall @ a16z crypto (Research)
+    Role: Senior Research Advisor (Stanford)
+    Evidence: Published a16z's definitive prediction markets research.
+    "How AI judges can scale prediction markets."
+    APPROACH: Academic angle. AI + prediction markets scaling.
+
+#24 @waynekimmel - Wayne Kimmel @ SeventySix Capital
+    Role: Managing Partner
+    Evidence: Invested in VSIN (sports betting media). Portfolio includes
+    sports betting, esports, data analytics.
+    APPROACH: Sports betting data angle. Reference VSIN investment.
+
+#25 @kagisobond - Kai Bond @ Courtside Ventures
+    Role: Partner
+    Evidence: "Real Money Gaming" as explicit focus. Sports/gaming investor.
+    APPROACH: Prediction markets as next evolution of real money gaming.
+
+#26 @zxocw - Olaf Carlson-Wee @ Polychain Capital
+    Role: Founder & CEO
+    Evidence: Led Polymarket's $4M seed in 2020. "Interested in information
+    markets for a long time." First Coinbase employee.
+    APPROACH: Information markets thesis. Next-gen infrastructure.
+
+================================================================================
+TIER 3 - LUKEWARM (Sports/gaming adjacent, weaker signal)
+================================================================================
+
+#27 @thechrisbuskirk - Chris Buskirk @ 1789 Capital
+#28 @FranklinBi - Franklin Bi @ Pantera Capital (~40.8K followers)
+#29 @0xMasonH - Mason Hall @ a16z crypto
+#30 @_kinjalbshah - Kinjal Shah @ Blockchain Capital
+#31 @im_manderson - Michael Anderson @ Framework Ventures
+#32 @GuptaRK22 - Ravi Gupta @ Sequoia Capital (sports/business podcast)
+#33 @PeteVlastelica - Pete Vlastelica @ Elysian Park Ventures
+#34 @deepenparikh - Deepen Parikh @ Courtside Ventures
+#35 @chadstender - Chad Stender @ SeventySix Capital
+#36 @santiagoroel - Santiago Roel Santos @ ex-ParaFi Capital
+#37 @EvgenyGaevoy - Evgeny Gaevoy @ Wintermute
+#38 @ColeVanNice1 - Cole Van Nice @ Elysian Park Ventures
+
+================================================================================
+OUTREACH PRIORITY ORDER
+================================================================================
+
+IMMEDIATE (this week):
+  1. @fawzitani (Forerunner) - low profile, direct thesis, reads DMs
+  2. @shayonsengupta (Multicoin) - direct sports betting thesis, lower profile
+  3. @guywuolletjr (a16z) - lower profile GP, led prediction markets deal
+  4. @prayanks (Accel) - led sports prediction exchange deal
+  5. @eightyhi (5c(c)) - THE prediction markets VC, peer conversation
+
+NEXT WEEK (engage content first, then DM):
+  6. @veradittakit (Pantera) - comment on his Substack first
+  7. @_alekslarsen (Blockchain Capital) - engage with his Medium posts
+  8. @arjunblj (Paradigm) - reply to his prediction markets tweets
+  9. @tomhschmidt (Dragonfly) - low profile, engage then DM
+  10. @HadickM (Dragonfly) - regulatory angle, warm up via replies
+
+LONGER TERM (build relationship):
+  11. @joeykrug (Founders Fund) - higher profile, needs warm intro
+  12. @NTmoney (1Confirmation) - engage with Polymarket content
+  13. @danrobinson (Paradigm) - technical content engagement
+  14. @GigiLevy (NFX) - reference his 888 Holdings background
+  15. @willreed_21 (Spark) - reference Underdog Fantasy deal
