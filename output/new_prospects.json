@@ -1,0 +1,742 @@
+[
+  {
+    "username": "j__fort",
+    "name": "Jacob Fortinsky",
+    "firm": "Novig",
+    "role": "Co-Founder & CEO",
+    "tier": "HOT",
+    "profile_url": "https://x.com/j__fort",
+    "evidence": "CEO of Novig (sports prediction market, $75M Series B). LP in 5c(c) Capital. Wrote viral thread on Novig becoming fastest-growing sports prediction market in America.",
+    "tweet_ref": "Running Novig, fastest-growing sports prediction market in America"
+  },
+  {
+    "username": "Domahhhh",
+    "name": "Domer",
+    "firm": "Polymarket (Top Trader)",
+    "role": "#1 All-Time Polymarket Trader",
+    "tier": "HOT",
+    "profile_url": "https://x.com/Domahhhh",
+    "evidence": "Traded $300M+ volume across 5,000+ Polymarket markets. Writes deep analyses on prediction market design and dispute resolution.",
+    "tweet_ref": "Top prediction markets trader, writes about market design"
+  },
+  {
+    "username": "kacyvenski",
+    "name": "Isaiah Kacyvenski",
+    "firm": "Will Ventures",
+    "role": "Founder & Managing Partner (ex-NFL)",
+    "tier": "HOT",
+    "profile_url": "https://x.com/kacyvenski",
+    "evidence": "Ex-NFL (Seahawks, Rams, Raiders). Will Ventures PUBLISHED 'A Momentarily Comprehensive Guide to Prediction Markets.' Led Jock MKT Series A (stock exchange for athletes).",
+    "tweet_ref": "Published prediction markets guide, led Jock MKT investment"
+  },
+  {
+    "username": "brianreilly",
+    "name": "Brian Reilly",
+    "firm": "Will Ventures",
+    "role": "Co-Founder & Managing Partner",
+    "tier": "HOT",
+    "profile_url": "https://x.com/brianreilly",
+    "evidence": "Co-led Jock MKT investment. Will Ventures' public prediction-markets primer authored under this firm.",
+    "tweet_ref": "Co-led Jock MKT investment, published prediction markets thesis"
+  },
+  {
+    "username": "nigeleccles",
+    "name": "Nigel Eccles",
+    "firm": "BetDEX",
+    "role": "Co-Founder & Chairman (founded FanDuel)",
+    "tier": "HOT",
+    "profile_url": "https://x.com/nigeleccles",
+    "evidence": "Founded FanDuel. Now chairman of BetDEX (largest decentralized sports betting exchange on Solana). $21M seed led by Paradigm/FTX.",
+    "tweet_ref": "FanDuel founder, now running BetDEX sports betting on Solana"
+  },
+  {
+    "username": "cindyleow",
+    "name": "Cindy Leow",
+    "firm": "Drift Protocol",
+    "role": "Co-Founder",
+    "tier": "HOT",
+    "profile_url": "https://x.com/cindyleow",
+    "evidence": "Co-founded Drift, Solana's largest perps DEX. Drift launched BET prediction market product in 2024 to challenge Polymarket. Direct founder peer.",
+    "tweet_ref": "Built Drift perps DEX + BET prediction markets on Solana"
+  },
+  {
+    "username": "cpjheaney",
+    "name": "Chris Heaney",
+    "firm": "Drift Protocol",
+    "role": "Co-Founder",
+    "tier": "HOT",
+    "profile_url": "https://x.com/cpjheaney",
+    "evidence": "Co-founded Drift. Built Drift's prediction markets engine. Deep understanding of on-chain derivatives UX on Solana.",
+    "tweet_ref": "Built Drift prediction markets + perps engine on Solana"
+  },
+  {
+    "username": "Tristan0x",
+    "name": "Tristan Frizza",
+    "firm": "Bullet (ex-Zeta Markets)",
+    "role": "Founder",
+    "tier": "HOT",
+    "profile_url": "https://x.com/Tristan0x",
+    "evidence": "Longest-standing Solana perps founder. Zeta Markets (first Solana orderbook perps DEX, $10B+ annual volume). Now building Bullet appchain. Electric Capital + Toly angels.",
+    "tweet_ref": "Zeta Markets founder, building Bullet perps appchain on Solana"
+  },
+  {
+    "username": "aeyakovenko",
+    "name": "Anatoly Yakovenko",
+    "firm": "Solana Labs",
+    "role": "Co-Founder & CEO",
+    "tier": "HOT",
+    "profile_url": "https://x.com/aeyakovenko",
+    "evidence": "Solana founder. 40+ angel investments including Drift, Zeta Markets, Infinex (perps superapp), Jito, Helius, Ellipsis. Building 'Percolator' perps DEX prototype.",
+    "tweet_ref": "Solana founder, active Solana perps angel investor"
+  },
+  {
+    "username": "0xMert_",
+    "name": "Mert Mumtaz",
+    "firm": "Helius Labs / Orb Markets",
+    "role": "Co-Founder & CEO",
+    "tier": "HOT",
+    "profile_url": "https://x.com/0xMert_",
+    "evidence": "Helius CEO. Building Orb Markets — 'The UI for Internet Markets' (prediction markets interface). 20+ angels including Zeta Markets. Said 'Solana will be best chain for prediction markets by mid-2026.'",
+    "tweet_ref": "Building Orb Markets, prediction markets UI on Solana"
+  },
+  {
+    "username": "mboiron",
+    "name": "Marc Boiron",
+    "firm": "Polygon Labs",
+    "role": "CEO",
+    "tier": "HOT",
+    "profile_url": "https://x.com/mboiron",
+    "evidence": "CEO of Polygon Labs. TBD angel investor, Fomo angel. Publicly states prediction markets 'give faster and more accurate insights than traditional news.'",
+    "tweet_ref": "Angel in TBD prediction market, called prediction markets more accurate than news"
+  },
+  {
+    "username": "AntonioMJuliano",
+    "name": "Antonio Juliano",
+    "firm": "dYdX",
+    "role": "Founder & CEO",
+    "tier": "HOT",
+    "profile_url": "https://x.com/AntonioMJuliano",
+    "evidence": "dYdX founder. TBD angel. Bullish on 'financializing attention to sports.' dYdX Chain has leveraged prediction markets.",
+    "tweet_ref": "dYdX founder, 'financializing attention to sports' thesis"
+  },
+  {
+    "username": "rleshner",
+    "name": "Robert Leshner",
+    "firm": "Superstate / Robot Ventures",
+    "role": "Founder (Compound founder)",
+    "tier": "HOT",
+    "profile_url": "https://x.com/rleshner",
+    "evidence": "Compound founder. Early Polymarket angel (2020 round). Robot Ventures focuses on operator-backed DeFi bets.",
+    "tweet_ref": "Early Polymarket angel, Compound founder"
+  },
+  {
+    "username": "jessewldn",
+    "name": "Jesse Walden",
+    "firm": "Variant Fund",
+    "role": "Founder & Managing Partner",
+    "tier": "HOT",
+    "profile_url": "https://x.com/jessewldn",
+    "evidence": "Variant published 'Bringing Perps to the People: A Proposal for Perpetual Futures Regulation.' Led investments in Uniswap, Phantom (Solana wallet), Flashbots. Perfect thesis fit.",
+    "tweet_ref": "Variant's 'Bringing Perps to the People' perpetual futures thesis"
+  },
+  {
+    "username": "masonnystrom",
+    "name": "Mason Nystrom",
+    "firm": "Variant Fund / Pantera",
+    "role": "Investment Partner",
+    "tier": "HOT",
+    "profile_url": "https://x.com/masonnystrom",
+    "evidence": "Co-authored Variant's 'Requests for Startups 2024' explicitly calling out gaming, betting and prediction markets as priority for 2025-2026.",
+    "tweet_ref": "Wrote Variant's RFS calling out sports prediction markets"
+  },
+  {
+    "username": "_charlienoyes",
+    "name": "Charlie Noyes",
+    "firm": "ex-Paradigm",
+    "role": "Former GP (advising prediction markets)",
+    "tier": "HOT",
+    "profile_url": "https://x.com/_charlienoyes",
+    "evidence": "Paradigm led Kalshi's Series C/E. Publicly debates prediction market design. Still advising Paradigm's pred-market portfolio.",
+    "tweet_ref": "Paradigm prediction markets lead, debates market design publicly"
+  },
+  {
+    "username": "adamscochran",
+    "name": "Adam Cochran",
+    "firm": "Cinneamhain Ventures",
+    "role": "Partner",
+    "tier": "HOT",
+    "profile_url": "https://x.com/adamscochran",
+    "evidence": "Prolific Crypto Twitter threader publishing long-form DeFi/prediction-market analysis.",
+    "tweet_ref": "Writes long-form prediction markets / DeFi analysis"
+  },
+  {
+    "username": "NateSilver538",
+    "name": "Nate Silver",
+    "firm": "Silver Bulletin / Polymarket Advisory",
+    "role": "Founder & Polymarket Advisor",
+    "tier": "HOT",
+    "profile_url": "https://x.com/NateSilver538",
+    "evidence": "Official Polymarket advisor since July 2024. Writes constantly about prediction markets.",
+    "tweet_ref": "Polymarket advisory board member, prediction markets evangelist"
+  },
+  {
+    "username": "davijlu",
+    "name": "David Lu",
+    "firm": "Drift Protocol",
+    "role": "Co-Founder & Angel",
+    "tier": "HOT",
+    "profile_url": "https://x.com/davijlu",
+    "evidence": "Drift co-founder. 20+ angel investments. Solana perps native.",
+    "tweet_ref": "Drift co-founder, active Solana DeFi angel"
+  },
+  {
+    "username": "MSpirito",
+    "name": "Michael Spirito",
+    "firm": "359 Capital (fka Sapphire Sport)",
+    "role": "Co-Founder & Managing Partner",
+    "tier": "HOT",
+    "profile_url": "https://x.com/MSpirito",
+    "evidence": "$300M AUM sports/media/entertainment fund. LPs include MSG, adidas, City Football Group, 30+ team owners. Former YES Network / Fox Sports.",
+    "tweet_ref": "359 Capital with MSG/Adidas/City Football Group LP network"
+  },
+  {
+    "username": "jpressman7",
+    "name": "Jeremy Pressman",
+    "firm": "ADvantage VC",
+    "role": "Founding Partner",
+    "tier": "HOT",
+    "profile_url": "https://x.com/jpressman7",
+    "evidence": "Sports tech fund (Jerusalem). Invests in 'derivative sports' (esports, fantasy, new sports). Backed by leAD (Adidas family office).",
+    "tweet_ref": "Backs 'derivative sports' companies including fantasy/esports"
+  },
+  {
+    "username": "michaelblank",
+    "name": "Michael Blank",
+    "firm": "Connect Ventures (CAA+NEA)",
+    "role": "Co-Founder & Managing Partner",
+    "tier": "HOT",
+    "profile_url": "https://x.com/michaelblank",
+    "evidence": "CAA-backed fund at sports/gaming/consumer intersection. Portfolio includes TMRW Sports (Tiger Woods/McIlroy). Led CAA mobile gaming.",
+    "tweet_ref": "CAA ventures, sports/gaming/consumer investments"
+  },
+  {
+    "username": "richkleiman",
+    "name": "Rich Kleiman",
+    "firm": "35V / Boardroom (with Kevin Durant)",
+    "role": "Co-Founder",
+    "tier": "HOT",
+    "profile_url": "https://x.com/richkleiman",
+    "evidence": "100+ portfolio company sports VC with KD. Owns stakes in Gotham FC, Philadelphia Union, PSG, Brooklyn Aces.",
+    "tweet_ref": "KD's VC with team ownership stakes across sports"
+  },
+  {
+    "username": "SplitCapital",
+    "name": "Zaheer Ebtikar",
+    "firm": "Split Capital / Plasma",
+    "role": "CIO / CSO",
+    "tier": "HOT",
+    "profile_url": "https://x.com/SplitCapital",
+    "evidence": "Derivatives-focused hedge fund. Publicly comments on perp markets, prediction markets, and Solana DeFi constantly. ~100% returns in 2024.",
+    "tweet_ref": "Derivatives-focused fund, comments on perps and prediction markets"
+  },
+  {
+    "username": "gametheorizing",
+    "name": "Jordi Alexander",
+    "firm": "Selini Capital",
+    "role": "Founder / CIO",
+    "tier": "HOT",
+    "profile_url": "https://x.com/gametheorizing",
+    "evidence": "Former pro poker player, game-theory specialist. Selini is major market maker in prediction market and perp tokens.",
+    "tweet_ref": "Ex-poker pro, market maker in prediction markets and perps"
+  },
+  {
+    "username": "jack__sanford",
+    "name": "Jack Sanford",
+    "firm": "Flash Trade",
+    "role": "CEO",
+    "tier": "HOT",
+    "profile_url": "https://x.com/jack__sanford",
+    "evidence": "CEO of Flash Trade (Solana perps DEX, 20x leverage). Former HFT trader + early Solana investor.",
+    "tweet_ref": "Flash Trade Solana perps DEX founder, ex-HFT"
+  },
+  {
+    "username": "y2kappa",
+    "name": "Marius Ciubotariu",
+    "firm": "Kamino Finance",
+    "role": "Co-Founder",
+    "tier": "HOT",
+    "profile_url": "https://x.com/y2kappa",
+    "evidence": "Kamino co-founder (largest Solana lending protocol). 8 years TradFi exotic derivatives experience (C++ pricing systems).",
+    "tweet_ref": "Kamino co-founder with TradFi derivatives pricing background"
+  },
+  {
+    "username": "mdudas",
+    "name": "Mike Dudas",
+    "firm": "6th Man Ventures",
+    "role": "Founder & GP",
+    "tier": "HOT",
+    "profile_url": "https://x.com/mdudas",
+    "evidence": "$145M fund, 50% Solana. Co-founded LinksDAO (Web3 golf NFT, $10M in 48 hrs). Sports + crypto thesis. Check sizes $500K-$4M.",
+    "tweet_ref": "6MV Solana-heavy fund, LinksDAO sports NFT founder"
+  },
+  {
+    "username": "kaiynne",
+    "name": "Kain Warwick",
+    "firm": "Synthetix / Infinex",
+    "role": "Founder",
+    "tier": "HOT",
+    "profile_url": "https://x.com/kaiynne",
+    "evidence": "Synthetix founder. Now building Infinex (perps superapp on 6 chains incl. Solana). 50+ angel investments.",
+    "tweet_ref": "Synthetix + Infinex founder, perps operator on Solana"
+  },
+  {
+    "username": "rajgokal",
+    "name": "Raj Gokal",
+    "firm": "Solana Labs",
+    "role": "Co-Founder & COO",
+    "tier": "HOT",
+    "profile_url": "https://x.com/rajgokal",
+    "evidence": "Solana co-founder. 19 angel investments including TBD, Fomo, Perena. Co-invests with Toly on Solana ecosystem deals.",
+    "tweet_ref": "Solana co-founder, TBD prediction market angel"
+  },
+  {
+    "username": "lessin",
+    "name": "Sam Lessin",
+    "firm": "Slow Ventures",
+    "role": "General Partner",
+    "tier": "HOT",
+    "profile_url": "https://x.com/lessin",
+    "evidence": "Angel in TBD (Solana prediction market). Long-time prediction markets poster on The Information and X.",
+    "tweet_ref": "TBD Solana prediction market angel, writes about betting markets"
+  },
+  {
+    "username": "mattytay",
+    "name": "Matty Taylor",
+    "firm": "Colosseum",
+    "role": "Co-Founder & GP",
+    "tier": "HOT",
+    "profile_url": "https://x.com/mattytay",
+    "evidence": "$60M Solana-focused fund. Former Head of Growth at Solana Foundation. Personal angel in io.net. $250K pre-seed checks.",
+    "tweet_ref": "Colosseum $60M Solana fund, former Solana Foundation"
+  },
+  {
+    "username": "QwQiao",
+    "name": "Qiao Wang",
+    "firm": "Alliance DAO",
+    "role": "Founding Partner",
+    "tier": "HOT",
+    "profile_url": "https://x.com/QwQiao",
+    "evidence": "Alliance DAO (YC of Web3). Publicly stated prediction markets + Telegram are hottest crypto startup categories.",
+    "tweet_ref": "Alliance DAO partner, called prediction markets hottest category"
+  },
+  {
+    "username": "mariogabriele",
+    "name": "Mario Gabriele",
+    "firm": "The Generalist / Generalist Capital",
+    "role": "Founder & Angel",
+    "tier": "WARM",
+    "profile_url": "https://x.com/mariogabriele",
+    "evidence": "Published definitive long-form profile on Joey Krug/Founders Fund prediction markets thesis. Writes frequently about prediction markets.",
+    "tweet_ref": "Writes deep profiles on prediction markets investors"
+  },
+  {
+    "username": "tarunchitra",
+    "name": "Tarun Chitra",
+    "firm": "Robot Ventures / Gauntlet",
+    "role": "Partner / CEO",
+    "tier": "WARM",
+    "profile_url": "https://x.com/tarunchitra",
+    "evidence": "Published technical research on auto-deleveraging (ADL) in perp exchanges. Public debate with Hyperliquid/Paradigm on perp mechanics. Gauntlet does risk modeling for perp DEXs.",
+    "tweet_ref": "Perps research, ADL analysis, Gauntlet risk modeling"
+  },
+  {
+    "username": "ZeMariaMacedo",
+    "name": "Jose Maria Macedo",
+    "firm": "Delphi Ventures / Delphi Labs",
+    "role": "Founding Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/ZeMariaMacedo",
+    "evidence": "Former pro poker player. Delphi bullish on perp DEXs eating TradFi. Incubates Hyperliquid-adjacent perp projects.",
+    "tweet_ref": "Ex-poker pro, Delphi bullish on perp DEXs eating TradFi"
+  },
+  {
+    "username": "shaughnessy119",
+    "name": "Tom Shaughnessy",
+    "firm": "Delphi Ventures",
+    "role": "Founding Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/shaughnessy119",
+    "evidence": "Delphi's 2026 Year Ahead report: 'Perp DEXs will eat TradFi.' Invested in Solana, dYdX, Ethena.",
+    "tweet_ref": "Delphi 'Perp DEXs will eat TradFi' thesis"
+  },
+  {
+    "username": "pierskicks",
+    "name": "Piers Kicks",
+    "firm": "Delphi / BITKRAFT",
+    "role": "Partner & Head of Gaming",
+    "tier": "WARM",
+    "profile_url": "https://x.com/pierskicks",
+    "evidence": "Gaming/crypto intersection specialist. Ran crypto-sports content via Metaverse Musings podcast.",
+    "tweet_ref": "Gaming x crypto specialist at Delphi/Bitkraft"
+  },
+  {
+    "username": "cburniske",
+    "name": "Chris Burniske",
+    "firm": "Placeholder VC",
+    "role": "Co-Founder & Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/cburniske",
+    "evidence": "Most public Solana bull in VC. Placeholder's thesis is decentralized market protocols.",
+    "tweet_ref": "Public Solana bull, Placeholder VC partner"
+  },
+  {
+    "username": "jmonegro",
+    "name": "Joel Monegro",
+    "firm": "Placeholder VC",
+    "role": "Managing Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/jmonegro",
+    "evidence": "'Fat Protocols' thesis author. Placeholder invested in Solana DeFi and prediction-market-adjacent protocols.",
+    "tweet_ref": "'Fat Protocols' thesis author, Solana DeFi investor"
+  },
+  {
+    "username": "ljin18",
+    "name": "Li Jin",
+    "firm": "Variant Fund",
+    "role": "Co-Founder & GP",
+    "tier": "WARM",
+    "profile_url": "https://x.com/ljin18",
+    "evidence": "'Ownership economy' thesis — prediction markets on sports align with user-owned platforms. Variant's 2024 RFS called out betting/prediction markets.",
+    "tweet_ref": "Ownership economy thesis, Variant prediction markets RFS"
+  },
+  {
+    "username": "spencernoon",
+    "name": "Spencer Noon",
+    "firm": "Variant Fund / OurNetwork",
+    "role": "Co-Founder & GP",
+    "tier": "WARM",
+    "profile_url": "https://x.com/spencernoon",
+    "evidence": "OurNetwork covers Solana perps (Drift, Jupiter) and prediction markets onchain metrics regularly.",
+    "tweet_ref": "OurNetwork covers Solana perps and prediction markets data"
+  },
+  {
+    "username": "lalleclausen",
+    "name": "Lasse Clausen",
+    "firm": "1kx",
+    "role": "Founding Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/lalleclausen",
+    "evidence": "1kx research tracks DeFi perpetuals categories and tokenization of equity on Solana.",
+    "tweet_ref": "1kx tracks DeFi perps and Solana tokenization"
+  },
+  {
+    "username": "pet3rpan_",
+    "name": "Peter Pan",
+    "firm": "1kx",
+    "role": "Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/pet3rpan_",
+    "evidence": "Invests at intersection of blockchain + entertainment (gaming, social, creator, IP). Sports teams as tradeable IP is direct adjacency.",
+    "tweet_ref": "1kx gaming/IP investments, blockchain + entertainment"
+  },
+  {
+    "username": "avichal",
+    "name": "Avichal Garg",
+    "firm": "Electric Capital",
+    "role": "Managing Partner & Co-Founder",
+    "tier": "WARM",
+    "profile_url": "https://x.com/avichal",
+    "evidence": "Electric led $5M into Zeta Markets (Solana perp DEX). Early Solana backer. Electric's Developer Report is THE source on Solana ecosystem growth.",
+    "tweet_ref": "Electric Capital, Zeta Markets Solana perps lead investor"
+  },
+  {
+    "username": "mariashen",
+    "name": "Maria Shen",
+    "firm": "Electric Capital",
+    "role": "General Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/mariashen",
+    "evidence": "Co-authors Electric's Developer Report (cites Solana as #1 attractor for new devs in 2024). Publicly bullish on Solana.",
+    "tweet_ref": "Electric Developer Report co-author, Solana bull"
+  },
+  {
+    "username": "kendeeter",
+    "name": "Ken Deeter",
+    "firm": "Electric Capital",
+    "role": "General Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/kendeeter",
+    "evidence": "Leads DeFi + tokenomics at Electric. Active on-chain in LP/governance. Perfect technical reviewer for perps protocols.",
+    "tweet_ref": "Electric DeFi + tokenomics lead, active on-chain"
+  },
+  {
+    "username": "diogomonica",
+    "name": "Diogo Monica",
+    "firm": "Haun Ventures",
+    "role": "General Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/diogomonica",
+    "evidence": "Co-founded Anchorage Digital. Chairman NEAR Protocol. Publicly vocal about bridging TradFi with DeFi.",
+    "tweet_ref": "Haun GP, Anchorage founder, bridges TradFi + DeFi"
+  },
+  {
+    "username": "ahnchrisj",
+    "name": "Chris Ahn",
+    "firm": "Haun Ventures",
+    "role": "Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/ahnchrisj",
+    "evidence": "Led Haun's investment in Conduit (rollup infra). Ex-Index crypto lead (Fireblocks). Haun portfolio heavy in DeFi infra.",
+    "tweet_ref": "Haun partner, DeFi infrastructure focus"
+  },
+  {
+    "username": "amytongwu",
+    "name": "Amy Wu Martin",
+    "firm": "Lightspeed Faction",
+    "role": "Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/amytongwu",
+    "evidence": "Oversees Lightspeed's crypto vertical. Co-founded $100M Solana gaming fund with Solana Ventures and FTX.",
+    "tweet_ref": "Lightspeed crypto, co-founded Solana gaming fund"
+  },
+  {
+    "username": "ed_roman",
+    "name": "Ed Roman",
+    "firm": "Hack VC",
+    "role": "Managing Director",
+    "tier": "WARM",
+    "profile_url": "https://x.com/ed_roman",
+    "evidence": "250+ crypto investments. Hack VC invested in Drift-adjacent Solana perps infra.",
+    "tweet_ref": "250+ crypto investments, Solana perps infra"
+  },
+  {
+    "username": "roshunpatel",
+    "name": "Roshun Patel",
+    "firm": "Hack VC",
+    "role": "Venture Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/roshunpatel",
+    "evidence": "Former VP of DeFi at Genesis. Deep perp/derivatives expertise. Leads DeFi/infra at Hack VC.",
+    "tweet_ref": "Ex-Genesis DeFi VP, perps/derivatives expert"
+  },
+  {
+    "username": "stefancoh",
+    "name": "Stefan Cohen",
+    "firm": "Bain Capital Crypto",
+    "role": "Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/stefancoh",
+    "evidence": "Co-leads Bain $560M crypto fund. Explicitly targets L1 infra, DeFi, DAO services, AND games.",
+    "tweet_ref": "Bain Crypto co-lead, DeFi + games thesis"
+  },
+  {
+    "username": "alex__evans",
+    "name": "Alex Evans",
+    "firm": "Bain Capital Crypto",
+    "role": "Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/alex__evans",
+    "evidence": "Research in cryptography/optimization/quantitative finance. Ex-Placeholder researcher. Most quant-technical VC aligned with perp mechanism design.",
+    "tweet_ref": "Quant-technical researcher, perp mechanism design focus"
+  },
+  {
+    "username": "sethgrosenberg",
+    "name": "Seth Rosenberg",
+    "firm": "Greylock",
+    "role": "Partner",
+    "tier": "WARM",
+    "profile_url": "https://x.com/sethgrosenberg",
+    "evidence": "Invests in 'consumer products including messaging, e-commerce, gaming, marketplaces and crypto.' Sports-perps is a consumer-crypto marketplace.",
+    "tweet_ref": "Greylock consumer + crypto + marketplaces + gaming"
+  },
+  {
+    "username": "PrimordialAA",
+    "name": "Bryan Pellegrino",
+    "firm": "LayerZero Labs",
+    "role": "Co-Founder & CEO",
+    "tier": "WARM",
+    "profile_url": "https://x.com/PrimordialAA",
+    "evidence": "Former pro poker player (aligned with sports/odds mindset). LayerZero key cross-chain infra for prediction markets. Fomo angel.",
+    "tweet_ref": "LayerZero founder, ex-poker pro, Fomo prediction market angel"
+  },
+  {
+    "username": "armaniferrante",
+    "name": "Armani Ferrante",
+    "firm": "Backpack Exchange",
+    "role": "Founder",
+    "tier": "WARM",
+    "profile_url": "https://x.com/armaniferrante",
+    "evidence": "Backpack Exchange (derivatives on Solana). Anchor framework creator. Mad Lads NFT.",
+    "tweet_ref": "Backpack Exchange derivatives on Solana, Anchor creator"
+  },
+  {
+    "username": "StaniKulechov",
+    "name": "Stani Kulechov",
+    "firm": "Aave",
+    "role": "Founder & CEO",
+    "tier": "WARM",
+    "profile_url": "https://x.com/StaniKulechov",
+    "evidence": "Aave founder. Infinex angel (Solana-integrated perps superapp).",
+    "tweet_ref": "Aave founder, Infinex Solana perps superapp angel"
+  },
+  {
+    "username": "buffalu__",
+    "name": "Lucas Bruder",
+    "firm": "Jito Labs",
+    "role": "Co-Founder & CEO",
+    "tier": "WARM",
+    "profile_url": "https://x.com/buffalu__",
+    "evidence": "Jito CEO. Heavy personal involvement in Solana DeFi. Validator MEV insights relevant for perp DEX order-flow.",
+    "tweet_ref": "Jito CEO, Solana DeFi builder, MEV/order-flow expert"
+  },
+  {
+    "username": "blknoiz06",
+    "name": "Ansem (Zion Thomas)",
+    "firm": "TCG Crypto / Angel",
+    "role": "Head of Research & Angel",
+    "tier": "WARM",
+    "profile_url": "https://x.com/blknoiz06",
+    "evidence": "Solana maxi. Head of Research at TCG. Publicly stated active angel investor in Solana apps.",
+    "tweet_ref": "Solana maxi, active Solana angel, huge marketing amplification"
+  },
+  {
+    "username": "Fiskantes",
+    "name": "Fiskantes",
+    "firm": "Zee Prime Capital",
+    "role": "Founding Partner",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/Fiskantes",
+    "evidence": "'Risk communist' market commentator. Angel in Botanix and DeFi primitives.",
+    "tweet_ref": "'Risk communist' commentator, DeFi primitives angel"
+  },
+  {
+    "username": "nemild",
+    "name": "Nemil Dalal",
+    "firm": "Y Combinator",
+    "role": "Visiting Partner (Crypto)",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/nemild",
+    "evidence": "YC's first all-stablecoin investment was into Totalis (prediction markets on Solana) settled in USDC on Solana in April 2026.",
+    "tweet_ref": "YC invested in Totalis, Solana prediction market in USDC"
+  },
+  {
+    "username": "calilyliu",
+    "name": "Lily Liu",
+    "firm": "Solana Foundation",
+    "role": "President",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/calilyliu",
+    "evidence": "Co-founded Earn.com (acquired by Coinbase). Publicly bullish on prediction markets 'defining Solana's evolution.'",
+    "tweet_ref": "Solana Foundation president, prediction markets conviction"
+  },
+  {
+    "username": "Austin_Federa",
+    "name": "Austin Federa",
+    "firm": "DoubleZero",
+    "role": "Co-Founder (ex-Solana Foundation)",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/Austin_Federa",
+    "evidence": "Active angel investor. Hosts 'Validated' podcast interviewing Solana founders including Zeta's Tristan Frizza on perps.",
+    "tweet_ref": "Solana ecosystem angel, hosts Solana founder podcast"
+  },
+  {
+    "username": "ikrotinsky",
+    "name": "Ian Krotinsky",
+    "firm": "TipLink",
+    "role": "Co-Founder",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/ikrotinsky",
+    "evidence": "Part of Solana founder angel ring. Co-invested in io.net alongside Toly.",
+    "tweet_ref": "TipLink founder, Solana angel ring member"
+  },
+  {
+    "username": "kashdhanda",
+    "name": "Kash Dhanda",
+    "firm": "Superteam",
+    "role": "Sherpa / Angel",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/kashdhanda",
+    "evidence": "Active Solana angel. Advisor to Jupiter, Streamflow, Ironforge.",
+    "tweet_ref": "Superteam Solana ecosystem connector, active angel"
+  },
+  {
+    "username": "ClayRobbins",
+    "name": "Clay Robbins",
+    "firm": "Colosseum",
+    "role": "Co-Founder & GP",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/ClayRobbins",
+    "evidence": "Ex-Slow Ventures. Handles venture side of Colosseum Solana fund.",
+    "tweet_ref": "Ex-Slow Ventures, Colosseum Solana fund GP"
+  },
+  {
+    "username": "nate_levine",
+    "name": "Nate Levine",
+    "firm": "Colosseum",
+    "role": "Co-Founder & GP",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/nate_levine",
+    "evidence": "Ex-Stripe engineer. Technical diligence partner at Colosseum. Reads every perps contract.",
+    "tweet_ref": "Ex-Stripe engineer, technical Solana VC"
+  },
+  {
+    "username": "YanLiberman",
+    "name": "Yan Liberman",
+    "firm": "Delphi Ventures",
+    "role": "Managing Partner",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/YanLiberman",
+    "evidence": "Managing partner at firm most publicly bullish on perps-as-next-TradFi.",
+    "tweet_ref": "Delphi managing partner, perps-as-next-TradFi thesis"
+  },
+  {
+    "username": "0xChen",
+    "name": "Eugene Chen",
+    "firm": "Ellipsis Labs",
+    "role": "Co-Founder & CEO",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/0xChen",
+    "evidence": "Ex-HFT (Jane Street/Jump). Just launched Phoenix Perps in 2026. Toly angel investment.",
+    "tweet_ref": "Ex-HFT, building Phoenix Perps on Solana"
+  },
+  {
+    "username": "ricomallozzi",
+    "name": "Rico Mallozzi",
+    "firm": "359 Capital",
+    "role": "Partner",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/ricomallozzi",
+    "evidence": "Consumer gaming + application-layer AI focus within 359's sports mandate.",
+    "tweet_ref": "359 Capital sports + consumer gaming partner"
+  },
+  {
+    "username": "therealchaseeb",
+    "name": "Chase Barker",
+    "firm": "Solana Mobile / Luminal",
+    "role": "Head of Dev Growth / Co-Founder",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/therealchaseeb",
+    "evidence": "Solana OG devrel with deep founder relationships. Routes deals.",
+    "tweet_ref": "Solana OG, routes deals to ecosystem funds"
+  },
+  {
+    "username": "akshaybd",
+    "name": "Akshay BD",
+    "firm": "Solana Foundation / Superteam DAO",
+    "role": "CMO / Founder",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/akshaybd",
+    "evidence": "Solana Foundation CMO. Runs Superteam DAO builder community. Former Uber public policy head. Angel investor.",
+    "tweet_ref": "Solana Foundation CMO, Superteam DAO founder"
+  },
+  {
+    "username": "LucaNetz",
+    "name": "Luca Netz",
+    "firm": "Pudgy Penguins / Igloo Inc.",
+    "role": "CEO",
+    "tier": "LUKEWARM",
+    "profile_url": "https://x.com/LucaNetz",
+    "evidence": "Largest Solana airdrop in history ($PENGU). Fomo angel. Strong bridge to sports/consumer crypto audience (NASCAR, Lufthansa partnerships).",
+    "tweet_ref": "Pudgy Penguins CEO, NASCAR partnerships, Fomo angel"
+  }
+]
