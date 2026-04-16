@@ -36,8 +36,11 @@ def main():
     total_cost = 0.0
 
     for i, username in enumerate(usernames):
-        if username in data and len(data[username].get("tweets", [])) > 0:
-            print(f"  [{i+1}/{len(usernames)}] @{username} — already fetched, skipping")
+        existing = data.get(username, {})
+        existing_tweets = existing.get("tweets", [])
+        has_ids = existing_tweets and "id" in existing_tweets[0]
+        if existing_tweets and has_ids:
+            print(f"  [{i+1}/{len(usernames)}] @{username} — already fetched with IDs, skipping")
             continue
 
         print(f"  [{i+1}/{len(usernames)}] @{username}...", end=" ", flush=True)
@@ -74,6 +77,7 @@ def main():
                         for u in t.entities["urls"]:
                             urls.append(u.get("expanded_url", u.get("url", "")))
                     tweets.append({
+                        "id": str(t.id),
                         "text": t.text,
                         "date": str(t.created_at) if t.created_at else None,
                         "metrics": dict(t.public_metrics) if t.public_metrics else {},
