@@ -17,7 +17,9 @@
     "best_time": null,
     "best_time_utc": null,
     "timing_sample": 0,
-    "portfolio": "Plasma, Hyperliquid, Ethena, Pendle"
+    "portfolio": "Plasma, Hyperliquid, Ethena, Pendle",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "chadstender",
@@ -37,7 +39,9 @@
     "best_time": "Tuesday 4PM ET",
     "best_time_utc": "Tuesday 8PM UTC",
     "timing_sample": 6,
-    "portfolio": "VSiN, Vigtory, FORT\u00cb, IC360"
+    "portfolio": "VSiN, Vigtory, FORT\u00cb, IC360",
+    "aum": "$50M",
+    "leads_rounds": false
   },
   {
     "username": "ricomallozzi",
@@ -57,7 +61,9 @@
     "best_time": "Tuesday 5PM ET",
     "best_time_utc": "Tuesday 9PM UTC",
     "timing_sample": 29,
-    "portfolio": "Overtime, Fevo, Backbone, beehiiv"
+    "portfolio": "Overtime, Fevo, Backbone, beehiiv",
+    "aum": "$300M",
+    "leads_rounds": false
   },
   {
     "username": "fawzitani",
@@ -77,7 +83,9 @@
     "best_time": "Friday 3PM ET",
     "best_time_utc": "Friday 7PM UTC",
     "timing_sample": 50,
-    "portfolio": "Chime, Faire, Hims & Hers, OURA"
+    "portfolio": "Chime, Faire, Hims & Hers, OURA",
+    "aum": "$3B",
+    "leads_rounds": false
   },
   {
     "username": "kagisobond",
@@ -97,7 +105,9 @@
     "best_time": null,
     "best_time_utc": null,
     "timing_sample": 0,
-    "portfolio": "Camb.ai, Fanstake, Overtime, 100 Thieves"
+    "portfolio": "Camb.ai, Fanstake, Overtime, 100 Thieves",
+    "aum": "$300M",
+    "leads_rounds": true
   },
   {
     "username": "cegapereira",
@@ -117,7 +127,9 @@
     "best_time": "Thursday 3PM ET",
     "best_time_utc": "Thursday 7PM UTC",
     "timing_sample": 48,
-    "portfolio": "Immutable, Karate Combat, EVE Frontier, Axie Infinity"
+    "portfolio": "Immutable, Karate Combat, EVE Frontier, Axie Infinity",
+    "aum": "$1B",
+    "leads_rounds": true
   },
   {
     "username": "nate_levine",
@@ -137,7 +149,9 @@
     "best_time": "Monday 4PM ET",
     "best_time_utc": "Monday 8PM UTC",
     "timing_sample": 30,
-    "portfolio": "Ore, Urani, BlockMesh, Helium"
+    "portfolio": "Ore, Urani, BlockMesh, Helium",
+    "aum": "$60M",
+    "leads_rounds": true
   },
   {
     "username": "j__fort",
@@ -157,7 +171,9 @@
     "best_time": "Wednesday 6PM ET",
     "best_time_utc": "Wednesday 10PM UTC",
     "timing_sample": 30,
-    "portfolio": "Novig (sports prediction exchange, $75M raised)"
+    "portfolio": "Novig (sports prediction exchange, $75M raised)",
+    "aum": "Founder",
+    "leads_rounds": false
   },
   {
     "username": "ahnchrisj",
@@ -177,7 +193,9 @@
     "best_time": "Wednesday 11AM ET",
     "best_time_utc": "Wednesday 3PM UTC",
     "timing_sample": 30,
-    "portfolio": "Lighter, Helius, Conduit, BVNK"
+    "portfolio": "Lighter, Helius, Conduit, BVNK",
+    "aum": "$2.5B",
+    "leads_rounds": true
   },
   {
     "username": "PeteVlastelica",
@@ -197,7 +215,9 @@
     "best_time": "Monday 11PM ET",
     "best_time_utc": "Monday 3AM UTC",
     "timing_sample": 50,
-    "portfolio": "PrizePicks, Second Spectrum, IDL, Appetite"
+    "portfolio": "PrizePicks, Second Spectrum, IDL, Appetite",
+    "aum": "$399M",
+    "leads_rounds": true
   },
   {
     "username": "eightyhi",
@@ -217,7 +237,9 @@
     "best_time": "Tuesday 8PM ET",
     "best_time_utc": "Tuesday 12AM UTC",
     "timing_sample": 49,
-    "portfolio": "5c(c) fund (prediction markets infrastructure, Kalshi/Polymarket LPs)"
+    "portfolio": "5c(c) fund (prediction markets infrastructure, Kalshi/Polymarket LPs)",
+    "aum": "$35M",
+    "leads_rounds": false
   },
   {
     "username": "ed_roman",
@@ -237,7 +259,9 @@
     "best_time": "Tuesday 1PM ET",
     "best_time_utc": "Tuesday 5PM UTC",
     "timing_sample": 23,
-    "portfolio": "EigenLayer, Mysten Labs, Goldfinch, AltLayer"
+    "portfolio": "EigenLayer, Mysten Labs, Goldfinch, AltLayer",
+    "aum": "$425M",
+    "leads_rounds": false
   },
   {
     "username": "jack__sanford",
@@ -257,7 +281,9 @@
     "best_time": "Wednesday 11AM ET",
     "best_time_utc": "Wednesday 3PM UTC",
     "timing_sample": 30,
-    "portfolio": "Flash Trade (Solana perps DEX, 20x leverage)"
+    "portfolio": "Flash Trade (Solana perps DEX, 20x leverage)",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "Nostroah",
@@ -277,7 +303,9 @@
     "best_time": "Monday 5PM ET",
     "best_time_utc": "Monday 9PM UTC",
     "timing_sample": 50,
-    "portfolio": "5c(c) fund (prediction markets infra, ex-Kalshi)"
+    "portfolio": "5c(c) fund (prediction markets infra, ex-Kalshi)",
+    "aum": "$35M",
+    "leads_rounds": false
   },
   {
     "username": "waynekimmel",
@@ -297,7 +325,9 @@
     "best_time": "Friday 8AM ET",
     "best_time_utc": "Friday 12PM UTC",
     "timing_sample": 50,
-    "portfolio": "VSiN, Vigtory, Lucra, IC360"
+    "portfolio": "VSiN, Vigtory, Lucra, IC360",
+    "aum": "$50M",
+    "leads_rounds": false
   },
   {
     "username": "stefancoh",
@@ -317,7 +347,9 @@
     "best_time": "Wednesday 4PM ET",
     "best_time_utc": "Wednesday 8PM UTC",
     "timing_sample": 27,
-    "portfolio": "Compound Finance, BlockFi, Zero Hash, ParaFi"
+    "portfolio": "Compound Finance, BlockFi, Zero Hash, ParaFi",
+    "aum": "$560M",
+    "leads_rounds": true
   },
   {
     "username": "prayanks",
@@ -337,7 +369,9 @@
     "best_time": "Monday 11AM ET",
     "best_time_utc": "Monday 3PM UTC",
     "timing_sample": 49,
-    "portfolio": "Pred, Zetwerk, Bizongo, OnsiteGo"
+    "portfolio": "Pred, Zetwerk, Bizongo, OnsiteGo",
+    "aum": "$8.6B",
+    "leads_rounds": false
   },
   {
     "username": "0xMasonH",
@@ -357,7 +391,9 @@
     "best_time": "Friday 11AM ET",
     "best_time_utc": "Friday 3PM UTC",
     "timing_sample": 50,
-    "portfolio": "Megapot (angel), a16z crypto Web3 infra deals"
+    "portfolio": "Megapot (angel), a16z crypto Web3 infra deals",
+    "aum": "$90B",
+    "leads_rounds": false
   },
   {
     "username": "shayonsengupta",
@@ -377,7 +413,9 @@
     "best_time": "Tuesday 12PM ET",
     "best_time_utc": "Tuesday 4PM UTC",
     "timing_sample": 50,
-    "portfolio": "Novig, io.net, Geodnet, Helium, Drift"
+    "portfolio": "Novig, io.net, Geodnet, Helium, Drift",
+    "aum": "$6B",
+    "leads_rounds": false
   },
   {
     "username": "davijlu",
@@ -397,7 +435,9 @@
     "best_time": "Thursday 9AM ET",
     "best_time_utc": "Thursday 1PM UTC",
     "timing_sample": 30,
-    "portfolio": "Drift Protocol, Magic Eden, Katana"
+    "portfolio": "Drift Protocol, Magic Eden, Katana",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "ahall_research",
@@ -417,7 +457,9 @@
     "best_time": "Saturday 11AM ET",
     "best_time_utc": "Saturday 3PM UTC",
     "timing_sample": 50,
-    "portfolio": "a16z research advisor (governance work: Optimism, Uniswap)"
+    "portfolio": "a16z research advisor (governance work: Optimism, Uniswap)",
+    "aum": "Advisor",
+    "leads_rounds": false
   },
   {
     "username": "deepenparikh",
@@ -437,7 +479,9 @@
     "best_time": "Tuesday 4PM ET",
     "best_time_utc": "Tuesday 8PM UTC",
     "timing_sample": 48,
-    "portfolio": "Draftea, Rei do Pitaco, Xpoint, Players Lounge"
+    "portfolio": "Draftea, Rei do Pitaco, Xpoint, Players Lounge",
+    "aum": "$300M",
+    "leads_rounds": true
   },
   {
     "username": "GigiLevy",
@@ -457,7 +501,9 @@
     "best_time": "Thursday 12PM ET",
     "best_time_utc": "Thursday 4PM UTC",
     "timing_sample": 49,
-    "portfolio": "Novig, Playtika, Plarium, 888 Holdings"
+    "portfolio": "Novig, Playtika, Plarium, 888 Holdings",
+    "aum": "$2.3B",
+    "leads_rounds": false
   },
   {
     "username": "nemild",
@@ -477,7 +523,9 @@
     "best_time": "Tuesday 3PM ET",
     "best_time_utc": "Tuesday 7PM UTC",
     "timing_sample": 30,
-    "portfolio": "Totalis (YC Solana prediction market), Coinbase, OpenSea, dYdX"
+    "portfolio": "Totalis (YC Solana prediction market), Coinbase, OpenSea, dYdX",
+    "aum": "Accelerator",
+    "leads_rounds": false
   },
   {
     "username": "lalleclausen",
@@ -497,7 +545,9 @@
     "best_time": "Monday 10AM ET",
     "best_time_utc": "Monday 2PM UTC",
     "timing_sample": 30,
-    "portfolio": "Liquity, WalletConnect, Rarible, Celestia"
+    "portfolio": "Liquity, WalletConnect, Rarible, Celestia",
+    "aum": "$275M",
+    "leads_rounds": true
   },
   {
     "username": "vasu",
@@ -517,7 +567,9 @@
     "best_time": "Monday 10PM ET",
     "best_time_utc": "Monday 2AM UTC",
     "timing_sample": 50,
-    "portfolio": "The Athletic, StockX, Draftea, Packz"
+    "portfolio": "The Athletic, StockX, Draftea, Packz",
+    "aum": "$300M",
+    "leads_rounds": true
   },
   {
     "username": "y2kappa",
@@ -537,7 +589,9 @@
     "best_time": "Saturday 10AM ET",
     "best_time_utc": "Saturday 2PM UTC",
     "timing_sample": 27,
-    "portfolio": "Kamino Finance (Solana DeFi), Hubble Protocol"
+    "portfolio": "Kamino Finance (Solana DeFi), Hubble Protocol",
+    "aum": "Founder",
+    "leads_rounds": false
   },
   {
     "username": "nigeleccles",
@@ -557,7 +611,9 @@
     "best_time": "Wednesday 9PM ET",
     "best_time_utc": "Wednesday 1AM UTC",
     "timing_sample": 30,
-    "portfolio": "BetDEX, BetHog, Rei do Pitaco, Draftea"
+    "portfolio": "BetDEX, BetHog, Rei do Pitaco, Draftea",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "jmonegro",
@@ -577,7 +633,9 @@
     "best_time": "Tuesday 8PM ET",
     "best_time_utc": "Tuesday 12AM UTC",
     "timing_sample": 30,
-    "portfolio": "0x, Aptos, Avalanche, Arweave"
+    "portfolio": "0x, Aptos, Avalanche, Arweave",
+    "aum": "$150M",
+    "leads_rounds": false
   },
   {
     "username": "sethgrosenberg",
@@ -597,7 +655,9 @@
     "best_time": "Tuesday 1PM ET",
     "best_time_utc": "Tuesday 5PM UTC",
     "timing_sample": 30,
-    "portfolio": "Ramp, Wisetack, Pine, Tome"
+    "portfolio": "Ramp, Wisetack, Pine, Tome",
+    "aum": "$3.5B",
+    "leads_rounds": false
   },
   {
     "username": "HadickM",
@@ -617,7 +677,9 @@
     "best_time": "Monday 8PM ET",
     "best_time_utc": "Monday 12AM UTC",
     "timing_sample": 50,
-    "portfolio": "Polymarket, Ethena, Monad, Hidden Road"
+    "portfolio": "Polymarket, Ethena, Monad, Hidden Road",
+    "aum": "$2.6B",
+    "leads_rounds": true
   },
   {
     "username": "roshunpatel",
@@ -637,7 +699,9 @@
     "best_time": "Wednesday 11PM ET",
     "best_time_utc": "Wednesday 3AM UTC",
     "timing_sample": 30,
-    "portfolio": "Erebor, EigenLayer, Mysten Labs, AltLayer"
+    "portfolio": "Erebor, EigenLayer, Mysten Labs, AltLayer",
+    "aum": "$425M",
+    "leads_rounds": false
   },
   {
     "username": "guywuolletjr",
@@ -657,7 +721,9 @@
     "best_time": "Thursday 6PM ET",
     "best_time_utc": "Thursday 10PM UTC",
     "timing_sample": 50,
-    "portfolio": "Kairos (prediction markets terminal), Solana, LayerZero, EigenLayer"
+    "portfolio": "Kairos (prediction markets terminal), Solana, LayerZero, EigenLayer",
+    "aum": "$90B",
+    "leads_rounds": true
   },
   {
     "username": "RealOmeedMalik",
@@ -677,7 +743,9 @@
     "best_time": "Wednesday 3PM ET",
     "best_time_utc": "Wednesday 7PM UTC",
     "timing_sample": 16,
-    "portfolio": "Polymarket, Enhanced Games, GrabAGun, Substack"
+    "portfolio": "Polymarket, Enhanced Games, GrabAGun, Substack",
+    "aum": "$1B",
+    "leads_rounds": true
   },
   {
     "username": "im_manderson",
@@ -697,7 +765,9 @@
     "best_time": "Thursday 11AM ET",
     "best_time_utc": "Thursday 3PM UTC",
     "timing_sample": 50,
-    "portfolio": "Synthetix, Chainlink, Aave, The Graph"
+    "portfolio": "Synthetix, Chainlink, Aave, The Graph",
+    "aum": "$1.4B",
+    "leads_rounds": false
   },
   {
     "username": "YanLiberman",
@@ -717,7 +787,9 @@
     "best_time": "Wednesday 7PM ET",
     "best_time_utc": "Wednesday 11PM UTC",
     "timing_sample": 18,
-    "portfolio": "dYdX, Lido, Uniswap, Axie Infinity"
+    "portfolio": "dYdX, Lido, Uniswap, Axie Infinity",
+    "aum": "$150M",
+    "leads_rounds": true
   },
   {
     "username": "diogomonica",
@@ -737,7 +809,9 @@
     "best_time": "Tuesday 8AM ET",
     "best_time_utc": "Tuesday 12PM UTC",
     "timing_sample": 30,
-    "portfolio": "Anchorage Digital, Messari, Aptos, OpenSea"
+    "portfolio": "Anchorage Digital, Messari, Aptos, OpenSea",
+    "aum": "$2.5B",
+    "leads_rounds": false
   },
   {
     "username": "Tristan0x",
@@ -757,7 +831,9 @@
     "best_time": "Thursday 7AM ET",
     "best_time_utc": "Thursday 11AM UTC",
     "timing_sample": 30,
-    "portfolio": "Bullet (Solana L2 perps), Zeta Markets"
+    "portfolio": "Bullet (Solana L2 perps), Zeta Markets",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "mattytay",
@@ -777,7 +853,9 @@
     "best_time": "Saturday 1PM ET",
     "best_time_utc": "Saturday 5PM UTC",
     "timing_sample": 28,
-    "portfolio": "Ore, Urani, BlockMesh, Metadow"
+    "portfolio": "Ore, Urani, BlockMesh, Metadow",
+    "aum": "$60M",
+    "leads_rounds": true
   },
   {
     "username": "mickymalka",
@@ -797,7 +875,9 @@
     "best_time": "Tuesday 10AM ET",
     "best_time_utc": "Tuesday 2PM UTC",
     "timing_sample": 50,
-    "portfolio": "Polymarket (5cc LP), Robinhood, Coinbase, Nubank"
+    "portfolio": "Polymarket (5cc LP), Robinhood, Coinbase, Nubank",
+    "aum": "$12B",
+    "leads_rounds": true
   },
   {
     "username": "tomloverro",
@@ -817,7 +897,9 @@
     "best_time": "Thursday 6PM ET",
     "best_time_utc": "Thursday 10PM UTC",
     "timing_sample": 50,
-    "portfolio": "Kalshi, Coinbase, HashiCorp, NerdWallet"
+    "portfolio": "Kalshi, Coinbase, HashiCorp, NerdWallet",
+    "aum": "$9B",
+    "leads_rounds": true
   },
   {
     "username": "GuptaRK22",
@@ -837,7 +919,9 @@
     "best_time": "Thursday 11PM ET",
     "best_time_utc": "Thursday 3AM UTC",
     "timing_sample": 50,
-    "portfolio": "Fireblocks, Faire, Noom, Instacart"
+    "portfolio": "Fireblocks, Faire, Noom, Instacart",
+    "aum": "$56B",
+    "leads_rounds": false
   },
   {
     "username": "mariashen",
@@ -857,7 +941,9 @@
     "best_time": "Thursday 12PM ET",
     "best_time_utc": "Thursday 4PM UTC",
     "timing_sample": 23,
-    "portfolio": "Magic Eden, dYdX, Lido, Helium"
+    "portfolio": "Magic Eden, dYdX, Lido, Helium",
+    "aum": "$1B+",
+    "leads_rounds": false
   },
   {
     "username": "_kinjalbshah",
@@ -877,7 +963,9 @@
     "best_time": "Monday 11AM ET",
     "best_time_utc": "Monday 3PM UTC",
     "timing_sample": 49,
-    "portfolio": "Polymarket, OpenSea, Upshot, Ripple"
+    "portfolio": "Polymarket, OpenSea, Upshot, Ripple",
+    "aum": "$2B",
+    "leads_rounds": false
   },
   {
     "username": "mhiggins",
@@ -897,7 +985,9 @@
     "best_time": "Saturday 1PM ET",
     "best_time_utc": "Saturday 5PM UTC",
     "timing_sample": 50,
-    "portfolio": "The Action Network, Drone Racing League, Relevent Sports, Int'l Champions Cup"
+    "portfolio": "The Action Network, Drone Racing League, Relevent Sports, Int'l Champions Cup",
+    "aum": "$1B+",
+    "leads_rounds": false
   },
   {
     "username": "buffalu__",
@@ -917,7 +1007,9 @@
     "best_time": "Thursday 11AM ET",
     "best_time_utc": "Thursday 3PM UTC",
     "timing_sample": 30,
-    "portfolio": "Jito Network, JitoSOL, BAM (Block Assembly Marketplace)"
+    "portfolio": "Jito Network, JitoSOL, BAM (Block Assembly Marketplace)",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "pierskicks",
@@ -937,7 +1029,9 @@
     "best_time": "Tuesday 6AM ET",
     "best_time_utc": "Tuesday 10AM UTC",
     "timing_sample": 29,
-    "portfolio": "Axie Infinity, Illuvium, Yuga Labs, Sandbox"
+    "portfolio": "Axie Infinity, Illuvium, Yuga Labs, Sandbox",
+    "aum": "$1B",
+    "leads_rounds": false
   },
   {
     "username": "Domahhhh",
@@ -957,7 +1051,9 @@
     "best_time": "Tuesday 7PM ET",
     "best_time_utc": "Tuesday 11PM UTC",
     "timing_sample": 30,
-    "portfolio": "Polymarket (#1 trader, $2.5M+ profit, 300M+ volume)"
+    "portfolio": "Polymarket (#1 trader, $2.5M+ profit, 300M+ volume)",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "masonnystrom",
@@ -977,7 +1073,9 @@
     "best_time": "Thursday 6PM ET",
     "best_time_utc": "Thursday 10PM UTC",
     "timing_sample": 30,
-    "portfolio": "Farcaster, Uniswap, Ondo, Story Protocol"
+    "portfolio": "Farcaster, Uniswap, Ondo, Story Protocol",
+    "aum": "$5B",
+    "leads_rounds": false
   },
   {
     "username": "tomhschmidt",
@@ -997,7 +1095,9 @@
     "best_time": "Thursday 10AM ET",
     "best_time_utc": "Thursday 2PM UTC",
     "timing_sample": 50,
-    "portfolio": "Polymarket, Ethena, Lido, Parcl"
+    "portfolio": "Polymarket, Ethena, Lido, Parcl",
+    "aum": "$2.6B",
+    "leads_rounds": true
   },
   {
     "username": "richkleiman",
@@ -1017,7 +1117,9 @@
     "best_time": "Monday 8AM ET",
     "best_time_utc": "Monday 12PM UTC",
     "timing_sample": 24,
-    "portfolio": "Coinbase, NBA Top Shot/Dapper Labs, Overtime, Gotham FC"
+    "portfolio": "Coinbase, NBA Top Shot/Dapper Labs, Overtime, Gotham FC",
+    "aum": "Family Office",
+    "leads_rounds": false
   },
   {
     "username": "zxocw",
@@ -1037,7 +1139,9 @@
     "best_time": "Monday 5PM ET",
     "best_time_utc": "Monday 9PM UTC",
     "timing_sample": 50,
-    "portfolio": "Polymarket (seed), dYdX, Compound, Celestia"
+    "portfolio": "Polymarket (seed), dYdX, Compound, Celestia",
+    "aum": "$5B",
+    "leads_rounds": false
   },
   {
     "username": "FranklinBi",
@@ -1057,7 +1161,9 @@
     "best_time": "Friday 9PM ET",
     "best_time_utc": "Friday 1AM UTC",
     "timing_sample": 49,
-    "portfolio": "Novig, Bitso, Ondo Finance, Azra Games"
+    "portfolio": "Novig, Bitso, Ondo Finance, Azra Games",
+    "aum": "$5B",
+    "leads_rounds": true
   },
   {
     "username": "pet3rpan_",
@@ -1077,7 +1183,9 @@
     "best_time": "Tuesday 11AM ET",
     "best_time_utc": "Tuesday 3PM UTC",
     "timing_sample": 30,
-    "portfolio": "The Sandbox, The Graph, Matter Labs, Parallel"
+    "portfolio": "The Sandbox, The Graph, Matter Labs, Parallel",
+    "aum": "$275M",
+    "leads_rounds": true
   },
   {
     "username": "_Dave__White_",
@@ -1097,7 +1205,9 @@
     "best_time": "Thursday 6PM ET",
     "best_time_utc": "Thursday 10PM UTC",
     "timing_sample": 50,
-    "portfolio": "Power Perpetuals/Squeeth research, Floor Perpetuals, Distribution Markets"
+    "portfolio": "Power Perpetuals/Squeeth research, Floor Perpetuals, Distribution Markets",
+    "aum": "$12.7B",
+    "leads_rounds": false
   },
   {
     "username": "thechrisbuskirk",
@@ -1117,7 +1227,9 @@
     "best_time": "Sunday 2PM ET",
     "best_time_utc": "Sunday 6PM UTC",
     "timing_sample": 47,
-    "portfolio": "Polymarket, SpaceX, xAI, Perplexity AI"
+    "portfolio": "Polymarket, SpaceX, xAI, Perplexity AI",
+    "aum": "$1B",
+    "leads_rounds": true
   },
   {
     "username": "_charlienoyes",
@@ -1137,7 +1249,9 @@
     "best_time": "Friday 2PM ET",
     "best_time_utc": "Friday 6PM UTC",
     "timing_sample": 30,
-    "portfolio": "Kalshi (board observer), Polymarket, Uniswap, Blur"
+    "portfolio": "Kalshi (board observer), Polymarket, Uniswap, Blur",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "akshaybd",
@@ -1157,7 +1271,9 @@
     "best_time": "Tuesday 10AM ET",
     "best_time_utc": "Tuesday 2PM UTC",
     "timing_sample": 30,
-    "portfolio": "Superteam Solana startups, Balaji Gaming, Aper, Xeet"
+    "portfolio": "Superteam Solana startups, Balaji Gaming, Aper, Xeet",
+    "aum": "Foundation",
+    "leads_rounds": false
   },
   {
     "username": "kashdhanda",
@@ -1177,7 +1293,9 @@
     "best_time": "Monday 7AM ET",
     "best_time_utc": "Monday 11AM UTC",
     "timing_sample": 30,
-    "portfolio": "Raiku, Jupiter (advisor), Solana startups"
+    "portfolio": "Raiku, Jupiter (advisor), Solana startups",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "veradittakit",
@@ -1197,7 +1315,9 @@
     "best_time": "Thursday 4PM ET",
     "best_time_utc": "Thursday 8PM UTC",
     "timing_sample": 46,
-    "portfolio": "Novig, Circle, Arbitrum, Ondo"
+    "portfolio": "Novig, Circle, Arbitrum, Ondo",
+    "aum": "$5B",
+    "leads_rounds": true
   },
   {
     "username": "AntonioMJuliano",
@@ -1217,7 +1337,9 @@
     "best_time": "Tuesday 1PM ET",
     "best_time_utc": "Tuesday 5PM UTC",
     "timing_sample": 29,
-    "portfolio": "dYdX (founder), Magic Eden (advisor), Plume"
+    "portfolio": "dYdX (founder), Magic Eden (advisor), Plume",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "joeykrug",
@@ -1237,7 +1359,9 @@
     "best_time": "Monday 12PM ET",
     "best_time_utc": "Monday 4PM UTC",
     "timing_sample": 50,
-    "portfolio": "Polymarket, Augur (co-founder), Kalshi, Eco"
+    "portfolio": "Polymarket, Augur (co-founder), Kalshi, Eco",
+    "aum": "$3B+",
+    "leads_rounds": false
   },
   {
     "username": "calilyliu",
@@ -1257,7 +1381,9 @@
     "best_time": "Thursday 6AM ET",
     "best_time_utc": "Thursday 10AM UTC",
     "timing_sample": 30,
-    "portfolio": "Osmosis, Earn.com (Coinbase exit), Anagram portfolio, Brave"
+    "portfolio": "Osmosis, Earn.com (Coinbase exit), Anagram portfolio, Brave",
+    "aum": "Foundation",
+    "leads_rounds": false
   },
   {
     "username": "arjunblj",
@@ -1277,7 +1403,9 @@
     "best_time": "Friday 2PM ET",
     "best_time_utc": "Friday 6PM UTC",
     "timing_sample": 49,
-    "portfolio": "BetDEX, Kalshi, 3Jane, Showtime"
+    "portfolio": "BetDEX, Kalshi, 3Jane, Showtime",
+    "aum": "$12.7B",
+    "leads_rounds": true
   },
   {
     "username": "jessewldn",
@@ -1297,7 +1425,9 @@
     "best_time": "Tuesday 5PM ET",
     "best_time_utc": "Tuesday 9PM UTC",
     "timing_sample": 29,
-    "portfolio": "Uniswap, Phantom, Farcaster, Flashbots"
+    "portfolio": "Uniswap, Phantom, Farcaster, Flashbots",
+    "aum": "$700M",
+    "leads_rounds": true
   },
   {
     "username": "mariogabriele",
@@ -1317,7 +1447,9 @@
     "best_time": "Thursday 11AM ET",
     "best_time_utc": "Thursday 3PM UTC",
     "timing_sample": 30,
-    "portfolio": "Generalist Capital (narrative-driven seed deals)"
+    "portfolio": "Generalist Capital (narrative-driven seed deals)",
+    "aum": "$12M",
+    "leads_rounds": false
   },
   {
     "username": "avichal",
@@ -1337,7 +1469,9 @@
     "best_time": "Thursday 10PM ET",
     "best_time_utc": "Thursday 2AM UTC",
     "timing_sample": 30,
-    "portfolio": "Zeta Markets, dYdX, Anchorage, OpenSea"
+    "portfolio": "Zeta Markets, dYdX, Anchorage, OpenSea",
+    "aum": "$1B+",
+    "leads_rounds": false
   },
   {
     "username": "shaughnessy119",
@@ -1357,7 +1491,9 @@
     "best_time": "Thursday 11AM ET",
     "best_time_utc": "Thursday 3PM UTC",
     "timing_sample": 28,
-    "portfolio": "LayerZero, Immutable, MCDEX, Yield Guild Games"
+    "portfolio": "LayerZero, Immutable, MCDEX, Yield Guild Games",
+    "aum": "$150M",
+    "leads_rounds": true
   },
   {
     "username": "ZeMariaMacedo",
@@ -1377,7 +1513,9 @@
     "best_time": "Thursday 12PM ET",
     "best_time_utc": "Thursday 4PM UTC",
     "timing_sample": 30,
-    "portfolio": "LayerZero, Immutable, Yield Guild Games, MCDEX"
+    "portfolio": "LayerZero, Immutable, Yield Guild Games, MCDEX",
+    "aum": "$150M",
+    "leads_rounds": false
   },
   {
     "username": "tarunchitra",
@@ -1397,7 +1535,9 @@
     "best_time": "Tuesday 5PM ET",
     "best_time_utc": "Tuesday 9PM UTC",
     "timing_sample": 30,
-    "portfolio": "EigenLayer, Lido Finance, Flashbots, Gauntlet"
+    "portfolio": "EigenLayer, Lido Finance, Flashbots, Gauntlet",
+    "aum": "$75M",
+    "leads_rounds": false
   },
   {
     "username": "NTmoney",
@@ -1417,7 +1557,9 @@
     "best_time": "Thursday 9AM ET",
     "best_time_utc": "Thursday 1PM UTC",
     "timing_sample": 35,
-    "portfolio": "Polymarket, Limitless Labs, dYdX, OpenSea"
+    "portfolio": "Polymarket, Limitless Labs, dYdX, OpenSea",
+    "aum": "$1B",
+    "leads_rounds": true
   },
   {
     "username": "danrobinson",
@@ -1437,7 +1579,9 @@
     "best_time": "Monday 3PM ET",
     "best_time_utc": "Monday 7PM UTC",
     "timing_sample": 50,
-    "portfolio": "Uniswap, dYdX, Blur, Optimism"
+    "portfolio": "Uniswap, dYdX, Blur, Optimism",
+    "aum": "$12.7B",
+    "leads_rounds": false
   },
   {
     "username": "mattyryze",
@@ -1457,7 +1601,9 @@
     "best_time": "Friday 7PM ET",
     "best_time_utc": "Friday 11PM UTC",
     "timing_sample": 47,
-    "portfolio": "Solana, LayerZero, Polygon, Wintermute"
+    "portfolio": "Solana, LayerZero, Polygon, Wintermute",
+    "aum": "$200M",
+    "leads_rounds": false
   },
   {
     "username": "EvgenyGaevoy",
@@ -1477,7 +1623,9 @@
     "best_time": "Thursday 6AM ET",
     "best_time_utc": "Thursday 10AM UTC",
     "timing_sample": 48,
-    "portfolio": "Wintermute market-making (crypto derivatives/liquidity)"
+    "portfolio": "Wintermute market-making (crypto derivatives/liquidity)",
+    "aum": "Market Maker",
+    "leads_rounds": false
   },
   {
     "username": "therealchaseeb",
@@ -1497,7 +1645,9 @@
     "best_time": "Thursday 7AM ET",
     "best_time_utc": "Thursday 11AM UTC",
     "timing_sample": 28,
-    "portfolio": "Luminal (ML compiler), Solana Mobile projects"
+    "portfolio": "Luminal (ML compiler), Solana Mobile projects",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "Fiskantes",
@@ -1517,7 +1667,9 @@
     "best_time": "Sunday 5PM ET",
     "best_time_utc": "Sunday 9PM UTC",
     "timing_sample": 28,
-    "portfolio": "Synthetix, Solana, Sigil (DeFi liquid staking)"
+    "portfolio": "Synthetix, Solana, Sigil (DeFi liquid staking)",
+    "aum": "$100M",
+    "leads_rounds": false
   },
   {
     "username": "PrimordialAA",
@@ -1537,7 +1689,9 @@
     "best_time": "Monday 3PM ET",
     "best_time_utc": "Monday 7PM UTC",
     "timing_sample": 30,
-    "portfolio": "Fomo, SkyArk Chronicles, Crypto Rogue Games, OpenToken"
+    "portfolio": "Fomo, SkyArk Chronicles, Crypto Rogue Games, OpenToken",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "spencernoon",
@@ -1557,7 +1711,9 @@
     "best_time": "Friday 5PM ET",
     "best_time_utc": "Friday 9PM UTC",
     "timing_sample": 30,
-    "portfolio": "Canto, Cap Labs, Aave, Lens Protocol"
+    "portfolio": "Canto, Cap Labs, Aave, Lens Protocol",
+    "aum": "$700M",
+    "leads_rounds": false
   },
   {
     "username": "lessin",
@@ -1577,7 +1733,9 @@
     "best_time": "Monday 10AM ET",
     "best_time_utc": "Monday 2PM UTC",
     "timing_sample": 30,
-    "portfolio": "TBD (Solana prediction market), Solana, Algorand, Robinhood"
+    "portfolio": "TBD (Solana prediction market), Solana, Algorand, Robinhood",
+    "aum": "$770M",
+    "leads_rounds": false
   },
   {
     "username": "gametheorizing",
@@ -1597,7 +1755,9 @@
     "best_time": "Thursday 3AM ET",
     "best_time_utc": "Thursday 7AM UTC",
     "timing_sample": 30,
-    "portfolio": "Mantle Network (Chief Alchemist), Selini trading"
+    "portfolio": "Mantle Network (Chief Alchemist), Selini trading",
+    "aum": "$200M",
+    "leads_rounds": false
   },
   {
     "username": "santiagoroel",
@@ -1617,7 +1777,9 @@
     "best_time": "Thursday 6PM ET",
     "best_time_utc": "Thursday 10PM UTC",
     "timing_sample": 48,
-    "portfolio": "Illuvium, Blast, LayerZero, MegaETH"
+    "portfolio": "Illuvium, Blast, LayerZero, MegaETH",
+    "aum": "$26.5M",
+    "leads_rounds": false
   },
   {
     "username": "kaiynne",
@@ -1637,7 +1799,9 @@
     "best_time": "Wednesday 3PM ET",
     "best_time_utc": "Wednesday 7PM UTC",
     "timing_sample": 30,
-    "portfolio": "Synthetix, Infinex, 3Jane, Cap Labs"
+    "portfolio": "Synthetix, Infinex, 3Jane, Cap Labs",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "armaniferrante",
@@ -1657,7 +1821,9 @@
     "best_time": "Friday 6PM ET",
     "best_time_utc": "Friday 10PM UTC",
     "timing_sample": 30,
-    "portfolio": "Backpack Exchange, Jito Labs, Mad Lads, Anchor framework"
+    "portfolio": "Backpack Exchange, Jito Labs, Mad Lads, Anchor framework",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "QwQiao",
@@ -1677,7 +1843,9 @@
     "best_time": "Tuesday 8AM ET",
     "best_time_utc": "Tuesday 12PM UTC",
     "timing_sample": 29,
-    "portfolio": "dYdX, 0x, Synthetix, Paraswap"
+    "portfolio": "dYdX, 0x, Synthetix, Paraswap",
+    "aum": "Accelerator",
+    "leads_rounds": false
   },
   {
     "username": "Austin_Federa",
@@ -1697,7 +1865,9 @@
     "best_time": "Wednesday 4AM ET",
     "best_time_utc": "Wednesday 8AM UTC",
     "timing_sample": 30,
-    "portfolio": "DoubleZero, Solana ecosystem infrastructure"
+    "portfolio": "DoubleZero, Solana ecosystem infrastructure",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "ljin18",
@@ -1717,7 +1887,9 @@
     "best_time": "Wednesday 4PM ET",
     "best_time_utc": "Wednesday 8PM UTC",
     "timing_sample": 30,
-    "portfolio": "Yield Guild Games, Syndicate, XMTP, Mirror"
+    "portfolio": "Yield Guild Games, Syndicate, XMTP, Mirror",
+    "aum": "$700M",
+    "leads_rounds": false
   },
   {
     "username": "LucaNetz",
@@ -1737,7 +1909,9 @@
     "best_time": "Tuesday 4PM ET",
     "best_time_utc": "Tuesday 8PM UTC",
     "timing_sample": 30,
-    "portfolio": "Pudgy Penguins, Abstract (L2), Overpass NFT, Cube Labs"
+    "portfolio": "Pudgy Penguins, Abstract (L2), Overpass NFT, Cube Labs",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "StaniKulechov",
@@ -1757,7 +1931,9 @@
     "best_time": "Monday 3PM ET",
     "best_time_utc": "Monday 7PM UTC",
     "timing_sample": 30,
-    "portfolio": "Aave, Lido, Maple Finance, Zerion"
+    "portfolio": "Aave, Lido, Maple Finance, Zerion",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "adamscochran",
@@ -1777,7 +1953,9 @@
     "best_time": "Thursday 10AM ET",
     "best_time_utc": "Thursday 2PM UTC",
     "timing_sample": 30,
-    "portfolio": "MakerDAO, Circle, Kraken, Reflexer Labs"
+    "portfolio": "MakerDAO, Circle, Kraken, Reflexer Labs",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "rleshner",
@@ -1797,7 +1975,9 @@
     "best_time": "Tuesday 8AM ET",
     "best_time_utc": "Tuesday 12PM UTC",
     "timing_sample": 30,
-    "portfolio": "Compound, Polymarket (angel), Superstate, Frax"
+    "portfolio": "Compound, Polymarket (angel), Superstate, Frax",
+    "aum": "$1.23B",
+    "leads_rounds": false
   },
   {
     "username": "cburniske",
@@ -1817,7 +1997,9 @@
     "best_time": "Monday 9PM ET",
     "best_time_utc": "Monday 1AM UTC",
     "timing_sample": 30,
-    "portfolio": "Backpack, Jito, Celestia, Solana"
+    "portfolio": "Backpack, Jito, Celestia, Solana",
+    "aum": "$150M",
+    "leads_rounds": false
   },
   {
     "username": "mdudas",
@@ -1837,7 +2019,9 @@
     "best_time": "Wednesday 6AM ET",
     "best_time_utc": "Wednesday 10AM UTC",
     "timing_sample": 28,
-    "portfolio": "LinksDAO, The Block, POAP, Web3 gaming startups"
+    "portfolio": "LinksDAO, The Block, POAP, Web3 gaming startups",
+    "aum": "$145M",
+    "leads_rounds": true
   },
   {
     "username": "rajgokal",
@@ -1857,7 +2041,9 @@
     "best_time": "Wednesday 3PM ET",
     "best_time_utc": "Wednesday 7PM UTC",
     "timing_sample": 30,
-    "portfolio": "Drift, TBD prediction market, Tensor, Helius"
+    "portfolio": "Drift, TBD prediction market, Tensor, Helius",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "blknoiz06",
@@ -1877,7 +2063,9 @@
     "best_time": "Thursday 10PM ET",
     "best_time_utc": "Thursday 2AM UTC",
     "timing_sample": 30,
-    "portfolio": "Solayer, Monad, Ethena Labs, Shogun"
+    "portfolio": "Solayer, Monad, Ethena Labs, Shogun",
+    "aum": "Angel",
+    "leads_rounds": false
   },
   {
     "username": "_alekslarsen",
@@ -1897,7 +2085,9 @@
     "best_time": null,
     "best_time_utc": null,
     "timing_sample": 0,
-    "portfolio": "Polymarket, Axiom Trust, Blockchain Capital portfolio"
+    "portfolio": "Polymarket, Axiom Trust, Blockchain Capital portfolio",
+    "aum": "$2B",
+    "leads_rounds": false
   },
   {
     "username": "willreed_21",
@@ -1917,7 +2107,9 @@
     "best_time": null,
     "best_time_utc": null,
     "timing_sample": 0,
-    "portfolio": "Underdog Fantasy, Abridge, Baseten, Scale AI"
+    "portfolio": "Underdog Fantasy, Abridge, Baseten, Scale AI",
+    "aum": "$12B",
+    "leads_rounds": false
   },
   {
     "username": "ColeVanNice1",
@@ -1937,7 +2129,9 @@
     "best_time": null,
     "best_time_utc": null,
     "timing_sample": 0,
-    "portfolio": "DraftKings, EP Golf Ventures, SeatGeek, Overtime"
+    "portfolio": "DraftKings, EP Golf Ventures, SeatGeek, Overtime",
+    "aum": "$399M",
+    "leads_rounds": false
   },
   {
     "username": "NateSilver538",
@@ -1957,6 +2151,8 @@
     "best_time": "Friday 5PM ET",
     "best_time_utc": "Friday 9PM UTC",
     "timing_sample": 30,
-    "portfolio": "Polymarket (advisor), Silver Bulletin (founder)"
+    "portfolio": "Polymarket (advisor), Silver Bulletin (founder)",
+    "aum": "Advisor",
+    "leads_rounds": false
   }
 ]
